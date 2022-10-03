@@ -1,0 +1,176 @@
+body{
+    background-color: black;
+}
+header.head{
+    background-color: black;
+    height: 0px;
+    width: 100%;
+    position: relative;
+    top: 0px;
+    opacity: 1;
+}
+div.header{
+    display: flex;
+    flex-direction: row;
+    margin-left: 80px;
+    margin-top: 5px;
+}
+h1.train{
+    color: white;
+    font-weight: 900;
+    font-family: sans-serif;
+}
+h1.studio{
+   color: orangered;
+   margin-left: 6px;
+   font-weight: 900;
+   font-family: sans-serif;
+}
+div.toolbar{
+    display: flex;
+    flex-direction: row;
+    margin-left: 300px;
+    margin-top: 0px;
+}
+h4.home{
+    color: white;
+    margin-left: 6px;
+    font-weight: 900;
+    font-family: sans-serif;
+    cursor: pointer;
+}
+h4.about{
+    color: white;
+    margin-left: 6px;
+    font-weight: 900;
+    font-family: sans-serif;
+    cursor: pointer;
+    margin-left: 25px;
+}
+h4.classes{
+    color: white;
+    margin-left: 6px;
+    font-weight: 900;
+    font-family: sans-serif;
+    cursor: pointer;
+    margin-left: 25px;
+}
+h4.shc{
+    color: white;
+    margin-left: 6px;
+    font-weight: 900;
+    font-family: sans-serif;
+    cursor: pointer;
+    margin-left: 25px;
+}
+h4.con{
+    color: white;
+    margin-left: 6px;
+    font-weight: 900;
+    font-family: sans-serif;
+    cursor: pointer;
+    margin-left: 25px;
+}
+h4.sign{
+    color: white;
+    margin-left: 6px;
+    font-weight: 900;
+    font-family: sans-serif;
+    cursor: pointer;
+    margin-left: 25px;
+    width: 100px;
+    height: 25px;
+    text-align: center;
+    vertical-align: middle;
+    background-color: orangered;
+}
+section.one{
+    height: 600px;
+    width: 100%;
+    background: black;
+}
+div.gym{
+    margin-top: 400px;
+    margin-left: 250px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+}
+div.gem{
+    display: flex;
+    flex-direction: row;
+    margin-left: 35px;
+}
+h5.wh{
+    margin-left: 120px;
+    word-spacing: 1.5px;
+    font-family: sans-serif;
+}
+h1.ew{
+    font-family: sans-serif;
+    font-weight: 900;
+    word-spacing: 5px;
+    letter-spacing: 3px;
+}
+h1.gym{
+    font-family: sans-serif;
+    font-weight: 900;
+    margin-left: 10px;
+    letter-spacing: 3px;
+    color: orangered;
+    font-stretch: wider;
+}
+h5.bam{
+    color: white;
+    margin-left: 120px;
+    font-weight: 900;
+    font-family: sans-serif;
+    width: 200px;
+    height: 27px;
+    text-align: center;
+    vertical-align: middle;
+    background-color: orangered;
+    cursor: pointer;
+}
+section.two{
+    height: 500px;
+    width: 100%;
+    background: white;
+}
+div.cp{
+    margin-top: 0px;
+    margin-left: 380px;
+    display: flex;
+    flex-direction: row;
+}
+h3.cp{
+    margin-top: 60px;
+    font-family: sans-serif;
+    font-weight: 900;
+}
+h3.pr{
+    margin-top: 60px;
+    margin-left: 4px;
+    font-weight: 900;
+    color: orangered;
+    font-family: sans-serif;
+}
+div.line{
+    margin-left: 450px;
+}
+div.each{
+    margin-left: 100px;
+    margin-top: 20px;
+    font-family: sans-serif;
+}
+div.bsf{
+    margin-left: 100px;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+}
+div.fin{
+    margin-left: 20px;
+    display: flex;
+    flex-direction: column;
+}
